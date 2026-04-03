@@ -1,0 +1,8 @@
+I would rate myself as:
+
+1. Artificial Intelligence (AI): B
+2. Machine Learning (ML): B
+3. Deep Learning (DL): C
+4. Large Language Models (LLM): C
+
+I have a good understanding of AI and ML concepts and can implement basic models with some guidance. I am still exploring deep learning and LLMs and improving my knowlwdge to work independently in these areas.

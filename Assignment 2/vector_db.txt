@@ -1,0 +1,19 @@
+A vector database stores data in the form of numerical vectors instead of traditionl rows and columns. These vectors represent the meaning of text, images, or other data.
+Normal databases only find exact matches.
+But vector databases understand the meaning of what you search, so they can find similar results even if the words are different.
+ex: If a user searches: “best place to eat” It can also match “good restaurants nearby”
+Vector database can also recognise small spelling mistakes and give correct results like if user searches "Restorents near me" it can match "Restaurant near me"
+Working of Vector db:
+ 1. Convert text into vector (embedding)
+ 2. Store vectors in DB
+ 3. Compare using similarity
+ 4. Return closest match
+
+Hypothetical problem: Suppose I am building a chatbot for a college website.
+Students can ask questions like:
+  exam timetable
+  when are exams?
+  schedule of tests
+All these questions are the same, but the sentence formation is different.
+Here I would choose vector db like Pinecone.
+It can help me to build chatbot that can understand the input and give the appropriate output.
